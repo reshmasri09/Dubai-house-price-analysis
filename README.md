@@ -1,32 +1,48 @@
-# Dubai-house-price-analysis
-Performed exploratory data analysis and dashboarding on a real estate dataset to uncover trends in Dubai house prices. Analyzed features like property type, area, location, and number of bedrooms. Built a Power BI dashboard to visualize key insights including average prices, high-demand locations, and pricing trends.
-# 🏠 Dubai House Price Analysis
+# 🏙 Dubai House Price Analysis
 
-## 📌 Overview
-This project explores real estate data of Dubai to uncover trends in housing prices and predict property values using machine learning.
+This project analyzes housing prices in Dubai using a combination of data analysis techniques and visual dashboards. It aims to uncover trends, patterns, and key insights that can help in understanding property price variations across different regions and property types.
 
-## 📊 Tools Used
-- Python (pandas, matplotlib, seaborn, scikit-learn)
-- Jupyter Notebook
-- Power BI
+---
 
-## 📁 Project Structure
-- Dubai_House_Price.csv – raw dataset
-- Dubai_House_EDA.ipynb – exploratory data analysis notebook
-- PowerBI_Dashboard/ – Power BI file and visualizations
+## 📁 Project Files
 
-## ✅ Objectives
-- Explore and visualize real estate trends
-- Identify key factors affecting house prices
-- Build a prediction model (optional)
-- Visualize insights in Power BI
+| File Name                     | Description |
+| Dubai_House_Price.pbix     | Power BI Dashboard presenting visual insights |
+| dubai-house-price.csv      | Original dataset used for analysis |
+| Dubai_Insights.pdf         | Final summary of key findings and business insights |
 
-## 📈 Insights
-- Price distribution by location, number of bedrooms
-- Average price trends by property type
-- Area-wise price heatmaps (in Power BI)
+---
 
-## 📌 Status
-✔ Completed EDA  
-✔ Dashboard Built  
-⬜ ML Model (optional - can be added later)
+## 📊 Tools & Technologies Used
+
+- *Python (Jupyter Notebook)* – for data cleaning, analysis, and visualization
+- *Power BI* – for creating interactive dashboards
+- *Pandas, Matplotlib, Seaborn* – data manipulation and plotting
+- *Git & GitHub* – version control and project sharing
+
+---
+
+## 📌 Key Insights
+
+- Identified top locations with highest average prices
+- Analyzed the impact of property size and location on pricing
+- Detected outliers and trends in pricing over time
+- Created a dashboard showing area-wise and type-wise comparisons
+
+---
+
+## 📝 Note
+
+> Some files (like .ipynb or .pbix) may not be viewable directly on GitHub due to file size or format limitations.  
+> Please *download the files* and open them using Jupyter Notebook or Power BI Desktop.
+
+---
+
+## 📬 Contact
+
+For queries or collaboration:
+- GitHub: [@reshmasri09](https://github.com/reshmasri09)
+
+---
+
+⭐ *If you found this project helpful, feel free to give it a star!*
